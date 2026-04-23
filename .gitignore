@@ -13,9 +13,9 @@ __pycache__/
 data/raw/
 data/external/
 
-models/
-*.pkl
-*.joblib
+# models/
+# *.pkl
+# *.joblib
 
 logs/
 *.log
