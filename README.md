@@ -37,7 +37,7 @@ Siga os passos abaixo para configurar o ambiente e executar a aplicação:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/seu-projeto.git](https://github.com/seu-usuario/seu-projeto.git)
+   git clone https://github.com/jonathasAJ/ai-content-platform.git
    cd ai-content-platform
 
 2. **Ative o ambiente virtual**
